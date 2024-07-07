@@ -51,9 +51,9 @@ Proyek ini dikerjakan oleh kelompok 2 yang beranggotakan: Sayyid Faruk Romdoni, 
 ## Screenshot Aplikasi
 
 <p align="center">
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-12-40_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-45-42_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 2" width="300"/>
-   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-50-53_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-12-40_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-45-42_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 2" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-50-53_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 3" width="200"/>
 </p>
 
 <p align="center">
