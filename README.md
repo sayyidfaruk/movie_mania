@@ -51,19 +51,12 @@ Proyek ini dikerjakan oleh kelompok 2 yang beranggotakan: Sayyid Faruk Romdoni (
 ## Screenshot Aplikasi
 
 <p align="center">
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-12-40_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-45-42_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 2" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-12-40_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 1" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-45-42_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 2" width="200"/>
    <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-05-50-53_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 3" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-06-43-35_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 4" width="200"/>
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-07-28-22_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 5" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-06-43-35_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 4" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-07-28-22_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 5" width="200"/>
    <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-07-42-08_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 6" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-07-37-97_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 7" width="200"/>
+   <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-08-22-55_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 8" width="200"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-07-37-97_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 4" width="200"/>
-  <img src="https://github.com/sayyidfaruk/movie_mania/blob/main/assets/Screenshot/Screenshot_2024-07-07-20-08-22-55_467fa3fbe539914f0cdda59fde860c3b.jpg" alt="Screenshot 5" width="200"/>
-</p>
-
