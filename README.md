@@ -2,7 +2,7 @@
 
 MovieMania adalah aplikasi Flutter yang memungkinkan pengguna untuk menjelajahi film-film populer, mencari film, dan mengelola daftar tontonan serta daftar film yang telah ditonton. Aplikasi ini menggunakan API dari The Movie Database (TMDb).
 
-Proyek ini dikerjakan oleh kelompok 2 yang beranggotakan: Sayyid Faruk Romdoni, Mahesa Al Zidane Putra Fedy, Adie Subarkah
+Proyek ini dikerjakan oleh kelompok 2 yang beranggotakan: Sayyid Faruk Romdoni (2106071), Mahesa Al Zidane Putra Fedy (2106166), Adie Subarkah (2106172)
 
 ## Fitur
 
