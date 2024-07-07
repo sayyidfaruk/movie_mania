@@ -1,32 +1,51 @@
-# moviemania
+# MovieMania
 
-A new Flutter project.
-## Kelompok 2
-Selamat coding dan nikmati pengalaman menjelajah film Anda dengan MovieMania!
+MovieMania adalah aplikasi Flutter yang memungkinkan pengguna untuk menjelajahi film-film populer, mencari film, dan mengelola daftar tontonan serta daftar film yang telah ditonton. Aplikasi ini menggunakan API dari The Movie Database (TMDb).
 
-Proyek ini dikerjakan oleh kelompok 2 yang terdiri dari 3 anggota yaitu:
-
-Sayyid Faruq Romdhoni
-Mahesa Al Zidane Putra Fedy
-Adie Subarkah
-
-## Pengantar
-MovieMania dirancang untuk memberikan pengalaman pengguna yang mulus dan menyenangkan bagi para penggemar film. Apakah Anda mencari blockbuster terbaru, film klasik, atau permata tersembunyi, MovieMania siap membantu. Terjunlah ke dunia film dengan antarmuka intuitif, kemampuan pencarian yang kuat, dan rekomendasi yang dipersonalisasi.
+Proyek ini dikerjakan oleh kelompok 2 yang beranggotakan: Sayyid Faruk Romdoni, Mahesa Al Zidane Putra Fedy, Adie Subarkah
 
 ## Fitur
-- UI Intuitif: Antarmuka bersih dan modern yang dirancang untuk pengalaman menjelajah optimal.
-- Pencarian dan Filter: Temukan film dengan mudah berdasarkan judul, genre, tanggal rilis, dan lainnya.
-- Detail Film: Dapatkan informasi detail tentang film termasuk sinopsis, pemeran, dan kru.
-- Rekomendasi yang Dipersonalisasi: Terima saran film berdasarkan riwayat tontonan Anda.
-- Favorit: Simpan film favorit Anda dan akses kapan saja.
 
-This project is a starting point for a Flutter application.
+- **Beranda**: Menampilkan daftar film populer.
+- **Pencarian**: Cari film berdasarkan judul.
+- **Daftar Tontonan**: Tambahkan film ke daftar tontonan.
+- **Film yang Sudah Ditonton**: Tandai film yang sudah ditonton.
+- **Penyimpanan Lokal**: Daftar tontonan dan film yang sudah ditonton disimpan di penyimpanan lokal.
+- **Switch View**: Beralih antara tampilan daftar dan grid untuk daftar film.
+- **Ikon Khusus**: Ikon yang berbeda untuk menandai film yang ada di daftar tontonan dan film yang sudah ditonton.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repositori ini:
+
+   ```bash
+   git clone https://github.com/username/moviemania.git
+   cd moviemania
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Buat file `.env` di root direktori proyek dan tambahkan API key Anda dari TMDb:
+
+   ```env
+   TMDB_API_KEY=YOUR_API_KEY_HERE
+   ```
+
+4. Jalankan aplikasi:
+
+   ```bash
+   flutter run
+   ```
+
+## Dependensi
+
+- [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
+- [http](https://pub.dev/packages/http)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
+- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
